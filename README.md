@@ -18,6 +18,7 @@ VS Code:
   - install extensions: ESLint, Prettier, Volar
 - Change settings in VS Code
 - Open project folder
+- In VS Code Terminal panel run: npm install
 - Open src/App.vue
 - Open VS Code Probolems panel
 
